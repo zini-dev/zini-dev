@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently studying C# <br>🎯 I´m looking for my first job opportunity with Developer. My dream is to one day work with Developer and speak english very well</p>
+<p align="left">📚 I'm currently studying Node JS and C# <br>🎯 I´m looking for my first job opportunity with Developer. My dream is to one day work with Developer and speak english very well</p>
 
 ###
 
