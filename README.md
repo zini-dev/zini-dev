@@ -5,7 +5,7 @@
 <p align="left">My name is Guilherme Zini and I'm a Developer, from Brazil, Sumaré-SP </p>
 
 ###
-
+.
 <h2 align="left">About me</h2>
 
 ###
