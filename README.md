@@ -1,6 +1,6 @@
-# 👩🏻‍💻 Larissa Kich
+# 👨‍💻 Guilherme Zini
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor Back-End`**
 
 Desenvolvedor Back-End em formação, apaixonado por criar soluções que unam tecnologia e propósito. Iniciei minha trajetória na programação, passei pelo marketing e hoje trago comigo uma visão mais completa sobre negócios, comunicação e experiência do usuário.
 Atualmente, estou me aprofundando em Node.js, APIs RESTful e SQL Server no curso de Desenvolvedor Back-End do SENAI, além de concluir a graduação em Análise e Desenvolvimento de Sistemas.
