@@ -20,7 +20,7 @@ Atualmente, estou me aprofundando em Node.js, APIs RESTful e SQL Server no curso
             src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"
         />
     </a>
-        <a href="https://www.linkedin.com/in/zini-dev" target="_blank">
+        <a href="https://www.linkedin.com/in/guilherme-zini-dev" target="_blank">
         <img 
             alt="LinkedIn" 
             title="Me siga no Linkedin" 
