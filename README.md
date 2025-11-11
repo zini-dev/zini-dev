@@ -106,6 +106,14 @@ Atualmente, estou me aprofundando em Node.js, APIs RESTful e SQL Server no curso
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"
 />
+<img 
+    align="left" 
+    alt="SQLServer" 
+    title="SQLServer"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
+/>
 
 <br/>
 <br/>
