@@ -1,5 +1,5 @@
 # 👨‍💻 Guilherme Zini
-.
+
 **`Desenvolvedor Back-End`**
 
 Desenvolvedor Back-End em formação, apaixonado por criar soluções que unam tecnologia e propósito. Iniciei minha trajetória na programação, passei pelo marketing e hoje trago comigo uma visão mais completa sobre negócios, comunicação e experiência do usuário.
