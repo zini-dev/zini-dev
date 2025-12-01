@@ -139,13 +139,4 @@ Atualmente, estou me aprofundando em Node.js, APIs RESTful e SQL Server no curso
 
 </p>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=zini-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-
 
