@@ -1,142 +1,41 @@
-# 👨‍💻 Guilherme Zini
+<div align="center">
 
-**`Desenvolvedor Back-End`**
+# Guilherme Zini
 
-Desenvolvedor Back-End em formação, apaixonado por criar soluções que unam tecnologia e propósito. Iniciei minha trajetória na programação, passei pelo marketing e hoje trago comigo uma visão mais completa sobre negócios, comunicação e experiência do usuário.
-Atualmente, estou me aprofundando em Node.js, APIs RESTful e SQL Server no curso de Desenvolvedor Back-End do SENAI, além de concluir a graduação em Análise e Desenvolvimento de Sistemas.
+### Desenvolvedor Back-End | C# .NET | Node.js Express
+</div>
 
-<p align="left">
-         <a href="https://instagram.com/guilhermezini_" target="_blank">
-        <img 
-            alt="Instagram" 
-            title="Me siga no Instagram" 
-            src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"
-        />
-    </a>
-    <a href = "mailto:guilhermerosazini@gmail.com">
-        <img 
-            alt="E-mail" 
-            title="Me envie um e-mail" 
-            src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"
-        />
-    </a>
-        <a href="https://www.linkedin.com/in/guilherme-zini-dev" target="_blank">
-        <img 
-            alt="LinkedIn" 
-            title="Me siga no Linkedin" 
-            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"
-        />
-    </a>
-    </a>
-    <a href="https://github.com/zini-dev?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/zini-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+## 👨‍💻 Sobre Mim
 
-</p>
+Desenvolvedor Back-End em formação, focado em Node.js, C#, SQL Server e APIs RESTful.
+
+Aqui você encontra meus projetos, estudos e experimentos enquanto evoluo minhas habilidades em arquitetura, boas práticas e desenvolvimento de soluções eficientes.
+
+Sempre aprendendo, sempre construindo.
+
+* 🎓 Cursando **Especialização - Desenvolvedor Back-End no Senai**.
+* 📚 Aprofundando em **C# .NET, SQL Server**.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🛠️ Tech Stack
 
-<img 
-    align="left" 
-    alt="NodeJS"
-    title="NodeJS" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Csharp"
-    title="Csharp" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Express" 
-    title="Express"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
-/>
-<img 
-    align="left" 
-    alt="DotNet" 
-    title="DotNet"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"
-/>
-<img 
-    align="left" 
-    alt="SQLServer" 
-    title="SQLServer"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
-/>
+| Back-End & Dados | Front-End | Ferramentas |
+| :---: | :---: | :---: |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+| ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
+| ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) | | ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) |
+| ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) | | |
 
-<br/>
-<br/>
+---
 
-### 📊 Estatísticas
+<div align="center">
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=zini-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+### 📫 Contato
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-zini-dev/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:guilhermerosazini@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/guilhermezini_/)
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=zini-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-
-
+</div>
