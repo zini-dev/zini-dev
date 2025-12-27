@@ -1,5 +1,5 @@
 <div align="center">
-
+.
 # Guilherme Zini
 
 ### Desenvolvedor Back-End | C# .NET | Node.js Express
